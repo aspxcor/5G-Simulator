@@ -28,6 +28,7 @@ Utility methods can be found and must be placed at:
 
 -utiliy.py
 
+<!--
 Please, when using 5GPy in your paper, thesis or dissertation, it is mandatory to cite the following reference:
 
 @article{tinini20195gpy,
@@ -40,3 +41,4 @@ publisher={Elsevier}
 }
 
 If you have any questions, please contact me at: tinini at fei dot edu dot br
+-->
