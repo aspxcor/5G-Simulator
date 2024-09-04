@@ -1,4 +1,6 @@
-# 5GPy
+# 5G Simulator
+
+This project provides a code implementation that supports 5G simulation in a Python environment.
 
 Dependencies:
 
